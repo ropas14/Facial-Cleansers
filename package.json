@@ -1,0 +1,27 @@
+{
+  "name": "faciallistapi",
+  "version": "1.0.0",
+  "description": "all facial Cleansers on this site.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "RestFul",
+    "Facial",
+    "Cleansers",
+    "MongodB",
+    "Mongoose",
+    "Express"
+  ],
+  "author": "Ropafadzo Shumba",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "*"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
